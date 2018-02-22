@@ -1,0 +1,128 @@
+
+<rss>
+<channel>
+
+<item>
+<title>A FM 92.9</title>
+<enclosure url="http://78.129.159.25:8010/stream?type=.mp3/;stream.mp3" />
+</item>
+
+<item>
+<title>Clouds FM</title>
+<enclosure url="http://eu6.fastcast4u.com:5306/;" />
+</item>
+
+<item>
+<title>E FM Tanzania</title>
+<enclosure url="http://107.182.231.73:7127/efm" />
+</item>
+
+<item>
+<title>East Africa Radio</title>
+<enclosure url="http://173.192.70.138:8270/;" />
+</item>
+
+<item>
+<title>One Tanzania</title>
+<enclosure url="http://78.129.232.226:8085/;" />
+</item>   
+
+<item>
+<title>ABOOD FM</title>
+<enclosure url="http://38.107.243.99:8020/stream?.wma" />
+</item>
+
+<item>
+<title>Choice FM 102.6</title>
+<enclosure url="http://51.255.235.165:5362/;" />
+</item>
+
+<item>
+<title>Bongo</title>
+<enclosure url="http://173.244.208.77:8000/bongo.mp3" />
+</item>
+
+<item>
+<title>88.9 Storm FM</title>
+<enclosure url="http://87.117.205.22:8059/stream" />
+</item>
+
+
+<item>
+<title>African Music Now</title>
+<enclosure url="http://stream.radio.co/sdb96b0103/listen" />
+</item>
+
+<item>
+<title>Bethel Web Radio</title>
+<enclosure url="http://gemini.shoutca.st:8197/stream" />
+</item>
+
+<item>
+<title>Capital Radio Tanzania</title>
+<enclosure url="http://78.129.232.226:8079/;" />
+</item>
+
+<item>
+<title>CG FM</title>
+<enclosure url="http://38.107.243.99:8002/stream" />
+</item>
+
+<item>
+<title>Choice FM</title>
+<enclosure url="http://51.255.235.165:5362/stream/;" />
+</item>
+
+<item>
+<title>East Africa Radio</title>
+<enclosure url="http://173.192.70.138:8270/;" />
+</item>
+
+<item>
+<title>Jembe FM</title>
+<enclosure url="https://streaming.shoutcast.com/JembeFM" />
+</item>
+
+<item>
+<title>Kings FM</title>
+<enclosure url="http://41.59.44.210:8000/stream" />
+</item>  
+ 
+<item>
+<title>Pride</title>
+<enclosure url="http://38.107.243.99:8001/stream" />
+</item>
+
+<item>
+<title>Radio Adhana</title>
+<enclosure url="http://38.107.243.99:8021/stream" />
+</item>
+
+<item>
+<title>Radio Kwizera</title>
+<enclosure url="http://uk4-vn.mixstream.net:8052/;" />
+</item>
+
+<item>
+<title>Radio One Tanzania</title>
+<enclosure url="http://78.129.232.226:8085/;" />
+</item>
+
+<item>
+<title>Radio Qiblaten</title>
+<enclosure url="http://38.107.243.99:8006/stream" />
+</item>
+
+<item>
+<title>SIBUKA FM</title>
+<enclosure url="http://38.107.243.99:8028/stream" />
+</item>
+
+<item>
+<title>TimesFM</title>
+<enclosure url="http://154.66.224.11:8000/Timesfm" />
+</item>
+
+
+</channel>
+</rss>
