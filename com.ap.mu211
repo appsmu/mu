@@ -2,10 +2,6 @@
 <rss>
 <channel>
 
-<item>
-<title>A FM 92.9</title>
-<enclosure url="http://78.129.159.25:8010/stream?type=.mp3/;stream.mp3" />
-</item>
 
 <item>
 <title>Clouds FM</title>
